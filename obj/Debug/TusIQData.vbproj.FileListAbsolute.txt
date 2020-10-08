@@ -1,0 +1,114 @@
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\TusIQData.dll.config
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\TusIQData.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\TusIQData.pdb
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\WebForms_Basic.xml
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Antlr3.Runtime.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\EntityFramework.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\EntityFramework.SqlServer.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.Owin.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.Owin.Security.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.Owin.Security.Google.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.Web.Infrastructure.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Newtonsoft.Json.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Owin.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\System.Web.Optimization.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\System.Web.Providers.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\WebGrease.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\System.Web.Optimization.xml
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Antlr3.Runtime.pdb
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Newtonsoft.Json.xml
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\EntityFramework.xml
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\EntityFramework.SqlServer.xml
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\System.Web.Providers.xml
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.Owin.xml
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.Owin.Security.xml
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.Owin.Security.Google.xml
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\obj\Debug\TusIQData.vbprojResolveAssemblyReference.cache
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\obj\Debug\TusIQData.Resources.resources
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\obj\Debug\TusIQData.vbproj.GenerateResource.Cache
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\obj\Debug\TusIQData.dll
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\obj\Debug\WebForms_Basic.xml
+c:\users\n507775\documents\visual studio 2013\Projects\TusIQData\TusIQData\obj\Debug\TusIQData.pdb
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\TusIQData.dll.config
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\TusIQData.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\TusIQData.pdb
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\WebForms_Basic.xml
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Antlr3.Runtime.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\EntityFramework.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\EntityFramework.SqlServer.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.Owin.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.Owin.Security.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Newtonsoft.Json.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Owin.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\System.Web.Optimization.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\System.Web.Providers.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\WebGrease.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\System.Web.Optimization.xml
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Antlr3.Runtime.pdb
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Newtonsoft.Json.xml
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\EntityFramework.xml
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\EntityFramework.SqlServer.xml
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\System.Web.Providers.xml
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.Owin.xml
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.Owin.Security.xml
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\n507775\source\repos\TusIQData\TusIQData\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\n507775\source\repos\TusIQData\TusIQData\obj\Debug\TusIQData.vbprojAssemblyReference.cache
+C:\Users\n507775\source\repos\TusIQData\TusIQData\obj\Debug\TusIQData.Resources.resources
+C:\Users\n507775\source\repos\TusIQData\TusIQData\obj\Debug\TusIQData.vbproj.GenerateResource.cache
+C:\Users\n507775\source\repos\TusIQData\TusIQData\obj\Debug\TusIQData.vbproj.CoreCompileInputs.cache
+C:\Users\n507775\source\repos\TusIQData\TusIQData\obj\Debug\TusIQData.vbproj.CopyComplete
+C:\Users\n507775\source\repos\TusIQData\TusIQData\obj\Debug\TusIQData.dll
+C:\Users\n507775\source\repos\TusIQData\TusIQData\obj\Debug\WebForms_Basic.xml
+C:\Users\n507775\source\repos\TusIQData\TusIQData\obj\Debug\TusIQData.pdb
