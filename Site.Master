@@ -1,0 +1,120 @@
+﻿<%@ Master Language="VB" AutoEventWireup="true" CodeBehind="Site.master.vb" Inherits="TusIQData.SiteMaster" %>
+
+<%@ Import Namespace="TusIQData" %>
+<%@ Import Namespace="Microsoft.AspNet.Identity" %>
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <title></title>
+    <link href="~/Styles/StyleSheet.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+    <div class="page">
+        <div class="header">
+       <%-- <div class="jumbotron"> </div>--%>
+            <h3>Welcome to the PlanningIQ website! </h3>  
+         <div class="container">
+            <div class="loginDisplay">
+                <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">
+                    <AnonymousTemplate>   
+                   <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Carcass.aspx" Text="Carcass">
+                            <asp:MenuItem NavigateUrl="http://10.25.3.80/ReportServer/Pages/ReportViewer.aspx?/Tus_IQ/Product&amp;rs:Command=Render&amp;parType=1ST" Text="Old Carcass" Value="Old Carcass"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Cover.aspx" Text="Cover">
+                            <asp:MenuItem NavigateUrl="http://10.25.3.80/ReportServer/Pages/ReportViewer.aspx?/Tus_IQ/Product&amp;rs:Command=Render&amp;parType=2ST" Text="Old Cover" Value="Old Cover"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Bead.aspx" Text="Bead" >
+                            <asp:MenuItem NavigateUrl="http://10.25.3.80/ReportServer/Pages/ReportViewer.aspx?/Tus_IQ/Bead" Text="Old Bead" Value="Old Bead"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Sidewall.aspx" Text="Sidewall">
+                            <asp:MenuItem NavigateUrl="http://10.25.3.80/ReportServer/Pages/ReportViewer.aspx?/Tus_IQ/Product&amp;rs:Command=Render&amp;parType=WAL" Text="Old Sidewall" Value="Old Sidewall"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Ply.aspx" Text="Ply">
+                            <asp:MenuItem NavigateUrl="http://10.25.3.80/ReportServer/Pages/ReportViewer.aspx?/Tus_IQ/Product&amp;rs:Command=Render&amp;parType=PLY" Text="Old Ply" Value="Old Ply"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Belt.aspx" Text="Belt">
+                            <asp:MenuItem NavigateUrl="http://10.25.3.80/ReportServer/Pages/ReportViewer.aspx?/Tus_IQ/VMI&amp;rs:Command=Render&amp;parType=BEL" Text="Old Belt" Value="Old Belt"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Tread.aspx" Text="Tread" >
+                            <asp:MenuItem NavigateUrl="http://10.25.3.80/ReportServer/Pages/ReportViewer.aspx?/Tus_IQ/Product&amp;rs:Command=Render&amp;parType=TRE" Text="Old Tread" Value="Old Tread"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Liner.aspx" Text="Liner">
+                            <asp:MenuItem Text="Old Liner" Value="Old Liner"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Mold.aspx" Text="Mold"/>
+                        <asp:MenuItem NavigateUrl="~/Admin/AdminConsole.aspx" Text="Admin" />
+                        <asp:MenuItem NavigateUrl="~/PrintAll.aspx" Text="Print All">
+                            <asp:MenuItem NavigateUrl="http://10.25.3.80/ReportServer?/Tus_IQ/rptComponents_All_In_One&amp;ComponentType=%&amp;rs:Command=Render&amp;rs:Format=PDF" Text="Old Print All" Value="Old Print All"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <%--<asp:MenuItem NavigateUrl="~/Export.aspx" Text="Export"/>--%>
+                        <asp:MenuItem NavigateUrl="~/TreadBreakdown.aspx" Text="Tread Breakdown">
+                            <asp:MenuItem NavigateUrl="http://10.25.3.80/ReportServer/Pages/ReportViewer.aspx?/Tus_IQ/rptTread" Text="Tread Breakdown" Value="Tread Breakdown"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Summary.aspx" Text="Summary" >
+                            <asp:MenuItem NavigateUrl="http://10.25.3.80/Reports/report/Tus_IQ/IQ_Summary" Text="Old Summary" Value="Old Summary"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/NewRollup.aspx" Text="NewRollup">
+                            <asp:MenuItem NavigateUrl="http://10.25.3.80/Reports/report/Tus_IQ/rptRollUp" Text="Old New Rollup" Value="Old New Rollup"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem Text="Tools" Value="Tools"> 
+                            <asp:MenuItem NavigateUrl="~/Account/Register.aspx" Text="Register" Value="36"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/Account/Recover.aspx" Text="Forgot Password" Value="37"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/Account/UnlockAccount.aspx" Text="Unlock" Value="38"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/Account/Login.aspx" Text="Login" Value="94"></asp:MenuItem>
+                        </asp:MenuItem>
+                    </Items>
+                </asp:Menu>
+                    </AnonymousTemplate>
+                    <LoggedInTemplate>
+                            <ul  class="navbar-right">
+                                <li style="color: #FFFFFF; "> <h5>Hello, <%: Membership.GetUser().Comment  %>!&nbsp;&nbsp;&nbsp;&nbsp;</h3></li>
+                            </ul>
+                    <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>   
+
+                        <asp:MenuItem Text="Users" Value="6">
+                            <asp:MenuItem NavigateUrl="~/Users/Password.aspx" Text="Change Your Password" Value="22"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/Users/Question.aspx" Text="Change Your Security Questions" Value="23"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/Users/Phone.aspx" Text="Change Your Phone Numbers" Value="43"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Users/Email.aspx" Text="Change Your Email Address" Value="43"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem Text="Administrators" Value="7">
+                            <asp:MenuItem NavigateUrl="~/Admin/AuditRecords.aspx" Text="Audit" Value="23"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/Admin/MinMaxAdmin.aspx" Text="Input Data" Value="123"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/Admin/FutureIQDataAdmin.aspx" Text="Future Input Data" Value="123"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Account/Logoff.aspx" Text="Logoff" Value="93"></asp:MenuItem>
+                      
+                    </Items>
+                </asp:Menu>
+                    </LoggedInTemplate>
+                </asp:LoginView>
+            </div>
+            <div class="clear hideSkiplink">
+
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+                    
+        </div>
+    </div>
+            </div>
+        <%--</div>--%>
+<%--    <div class="footer">
+        
+    </div>--%>
+    </form>
+</body>
+</html>
+
+
